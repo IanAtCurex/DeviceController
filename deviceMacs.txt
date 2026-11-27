@@ -1,0 +1,14 @@
+DualImplant#0501 c1:e9:1b:36:9b:aa
+DualImplant#0502 de:28:ba:23:d5:32
+DualImplant#0504 d6:e9:b5:6e:e2:7f
+DualImplant#0505 d1:f1:ff:1e:3e:7e
+DualImplant#0506 ed:98:00:76:2e:f9
+DualImplant#0503 ea:d4:7d:02:51:2a
+DualImplant#0500 e2:12:e5:c0:47:a2
+DualImplant#0507 e4:95:d8:b2:a3:e3
+DualImplant#0508 d6:3a:f0:54:24:a7
+DualImplant#0509 fd:c3:6e:6e:94:b5
+DualImplant#0510 e2:b1:fa:8f:4c:fe
+DualImplant#0511 df:b9:fd:e8:a9:5e
+DualImplant#0513 ce:42:0d:e6:70:c7
+DualImplant#0514 d0:f5:0a:65:98:10

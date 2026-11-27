@@ -1,0 +1,25 @@
+{
+  "hide_lines": false,
+  "chart_window_size": 500,
+  "chart_font_size2": 8.0,
+  "chart_line_thickness": 2.5,
+  "average_values": 100,
+  "num_cols": 2,
+  "allow_scrollbar": false,
+  "voltageColor": {
+    "R": 128,
+    "G": 0,
+    "B": 128,
+    "A": 255,
+    "Name": "Purple"
+  },
+  "currentColor": {
+    "R": 0,
+    "G": 128,
+    "B": 255,
+    "A": 255,
+    "Name": ""
+  },
+  "saveInterval": 5,
+  "smart_downsampling": false
+}

@@ -1,0 +1,87 @@
+﻿=== Log Session Started: 2026-11-27 13:42:45.431 ===
+[DEBUG_BLE_CONNECTION] Disabled - Debug logging is inactive
+Loaded colors: Color [Purple]
+Pump file name: .json
+Pump file name: 10023867351.json
+Setting up chart for 1, additional 1
+Storage transfer started.
+Attempting to save 106 data entries
+Managed to save 106 data entries
+Data update event fired at 27.11.2026. 13:44:34
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:44:38
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:44:44
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:44:48
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:44:54
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:44:58
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:04
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:08
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:14
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:18
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:24
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:28
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:34
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:38
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:44
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:48
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:54
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:45:58
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:46:04
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:46:08
+Shoing data
+Attempting to save 1 data entries
+Data update event fired at 27.11.2026. 13:46:14
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries
+Data update event fired at 27.11.2026. 13:46:20
+Shoing data
+Attempting to save 1 data entries
+Managed to save 1 data entries

@@ -1,0 +1,8 @@
+{
+  "totalCapacity": 0.010999999999999999,
+  "currentCapacity": 0.010999999999999999,
+  "lowPowerDeviceConsumption": 0.00020000000000000001,
+  "fullPowerDeviceConsumption": 0.00040000000000000002,
+  "deviceName": "Demo",
+  "powerMode": 0
+}
